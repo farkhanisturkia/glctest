@@ -1,9 +1,9 @@
-gunakan (php artisan migrate:fresh --seed) untuk mendapatkan akun admin dan seles
+# gunakan (php artisan migrate:fresh --seed) untuk mendapatkan akun admin dan seles
 
 admin :
-admin@gmail.com
-password
+- admin@gmail.com
+- password
 
 seles :
-32122122
-password
+- 32122122
+- password
